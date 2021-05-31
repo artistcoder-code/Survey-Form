@@ -26,7 +26,7 @@ without using additional block of <div><span></span></div> inside the body */
     width: 100%;
     z-index: -1;
     background: #1b1b32; 
-    background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url("img/survey-form-background.jpeg"); 
+    background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url("img/survey_form_cats_background.jpg"); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
