@@ -39,7 +39,7 @@ with using additional block of <div><span></span></div> inside the body before c
 .block {
     margin: 0;
     padding: 0;
-    background: #a87be2;
+    background: #2980B9;
     z-index: 2; 
     position: relative;
 
@@ -54,7 +54,7 @@ with using additional block of <div><span></span></div> inside the body before c
     position: fixed;
     top: 0;
     left: 0;
-    background-image: url("img/survey-form-background.jpeg"); 
+    background-image: url("img/survey_form_cats_background.jpg"); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -105,7 +105,7 @@ p {
 
 
 form {
-    background-color: rgba(27, 27, 50, 0.8);
+    background-color: rgba(44, 62, 80, 0.8);
     padding: 2.5rem 0.625rem;
     margin: 0 auto;
     /* width: 80%; */
@@ -189,7 +189,7 @@ textarea::placeholder {
 input[type=submit] {
     width: 100%;
     padding: .75em .75em;
-    background-color: rgba(14, 233, 131, 0.719);
+    background-color: rgba(220, 118, 51, 0.719);
     color: #fff;
     outline: none;
     cursor: pointer;
